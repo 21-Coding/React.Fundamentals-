@@ -21,14 +21,14 @@ React JS application that keeps track of beer.
 
 ### Design Layout
 
-  ![enter image description here](https://lh3.googleusercontent.com/Gkq2viYuDRwVFLytbxzu6XR3jpbE_cWWds9fm3HkUJv7BTaEL2e54lbvXFYEgWXKlrb1mNqn0_w "1000mb")
 
 
 
 
 
 
-![enter image description here](https://lh3.googleusercontent.com/jqnmC8yw8SPqMY_rJ71_lQt_DFlkj-ylQsWh285H1vWUxTkwz0xlS2BlelD3YG-9pwjKYntHcnU=s700  "Tap")
+
+
 
   
 
