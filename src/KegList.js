@@ -1,11 +1,8 @@
-  
 import React from "react";
 import Keg from "./Keg";
 import PropTypes from "prop-types";
+  
 
-KegList.propTypes = {
-  kegList: PropTypes.array
-}
 
 function KegList(props) {
   return (
