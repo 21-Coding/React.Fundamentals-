@@ -8,7 +8,7 @@ function KegDetails(props) {
   return(
     <React.Fragment>
       <h1>Keg Detail</h1>
-      <h1>Name: {keg.name}</h1>
+      <p>Name: {keg.name}</p>
       <p>Brand: {keg.brand}</p>
       <p>Price: {keg.price}</p>
       <p>ALC: {keg.ALC}</p>
