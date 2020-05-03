@@ -1,4 +1,4 @@
-import formVisibleReducer from '../src/reducers/form-visible-reducer';
+import formVisibleReducer from '../../src/reducers/form-visible-reducer';
 
 describe("formVisibleReducer", () => {
   test('Should return default state if no action type is recognized', () => {
