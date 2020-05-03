@@ -38,7 +38,9 @@ React JS application that keeps track of beer.
 
   
 
-### Design Layout![enter image description here](https://lh3.googleusercontent.com/KDvaWQ7l0_gf7LJTNLaQAqpzX_oZ4fAQjCVPrG8EjbGErh25DRuDzCrrpQG6cnF-vTVVIW0NVmU=s2000 "Diagram")
+### Design Layout
+
+![enter image description here](https://lh3.googleusercontent.com/KDvaWQ7l0_gf7LJTNLaQAqpzX_oZ4fAQjCVPrG8EjbGErh25DRuDzCrrpQG6cnF-vTVVIW0NVmU=s2000 "Diagram")
   
   
   
