@@ -99,6 +99,9 @@ Next, install npm at the project's root directory via the following commands:
 -   `$ npm install`
 -   `$ npm run build`
 
+Then run the app on `localhost:3000` using:
+-   `$ npm run start`
+
 Open the contents of the directory in a text editor or IDE of your choice (e.g., to open the contents of the directory in Visual Studio Code on macOS, enter the command "code ." in Terminal).
 
 ## Technologies Used
