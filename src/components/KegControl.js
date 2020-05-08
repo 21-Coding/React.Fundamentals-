@@ -48,7 +48,7 @@ class KegControl extends React.Component {
         const previousKegList = this.state.masterKegList.filter(keg => keg.id !== id);
         this.setState({
             masterKegList: [...previousKegList, updatedKeg],
-            selectedKeg: updatedKeg
+           
         });
         }
 
