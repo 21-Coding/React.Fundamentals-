@@ -12,7 +12,7 @@ function AddKegForm(props) {
             brand: event.target.brand.value,
             price: event.target.price.value,
             ALC: event.target.ALC.value,
-            pints: event.target.pints.value,
+            pints: parseInt(event.target.pints.value),
             id: v4()
          });
     }
