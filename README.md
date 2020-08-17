@@ -8,7 +8,7 @@
 
   
 
-React JS application that keeps track of beer.
+React JS application that keeps track of items.
 
   
 
@@ -16,7 +16,7 @@ React JS application that keeps track of beer.
 
   
 
-* As a user, I want to see a list/menu of all available kegs. For each keg, I want to see its name, brand, price and alcoholContent (or perhaps something like flavor for a kombucha store).
+* As a user, I want to see a list/menu of all available items. For each item, I want to see its name, brand, price and alcoholContent (or perhaps something like flavor for a kombucha store).
 
   
 
